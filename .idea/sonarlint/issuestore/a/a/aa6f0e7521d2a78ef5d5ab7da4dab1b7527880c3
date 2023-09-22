@@ -1,0 +1,12 @@
+
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–õŞœ8Ì†âÔ«1
+£
+java:S1186
+"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Î‚¢ãüÿÿÿÿ8Ï†âÔ«1
+p
+java:S1450"SRemove the "file" field and declare it as a local variable in the relevant methods.(—¸öˆ8Ğ†âÔ«1
+q
+java:S1450"TRemove the "struk" field and declare it as a local variable in the relevant methods.(ãçÄÙ8Ğ†âÔ«1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(²ĞãŞ8Ø†âÔ«1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(åœæÃøÿÿÿÿ8Ù†âÔ«1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¹ÀÈÖ8Ù†âÔ«1

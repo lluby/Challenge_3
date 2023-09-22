@@ -1,0 +1,47 @@
+
+:
+java:S2386
+"Make this member "protected".(íÉ’À8ÀóÕ«1
+:
+java:S2386"Make this member "protected".(íÕë8ÀóÕ«1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(«”­8™—ÅÔ«1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¥À”á8š—ÅÔ«1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(«”­8š—ÅÔ«1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8š—ÅÔ«1
+b
+java:S1612"@Replace this lambda with method reference 'System.out::println'.(Óš£Óûÿÿÿÿ8ÍóÕ«1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Óš£Óûÿÿÿÿ8›—ÅÔ«1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(²¾Œ÷8›—ÅÔ«1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(·ÓËşÿÿÿÿ8›—ÅÔ«1
+Z	java:S106%"9Replace this use of System.out or System.err by a logger.(ÚÅÊ’üÿÿÿÿ8œ—ÅÔ«1
+U	java:S106+"9Replace this use of System.out or System.err by a logger.(±‰–â8œ—ÅÔ«1
+U	java:S106,"9Replace this use of System.out or System.err by a logger.(§Í°8—ÅÔ«1
+U	java:S106-"9Replace this use of System.out or System.err by a logger.(‹ñõ’8—ÅÔ«1
+Z	java:S106."9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8—ÅÔ«1
+Z	java:S1060"9Replace this use of System.out or System.err by a logger.(Õ·™ÿÿÿÿÿ8—ÅÔ«1
+Z	java:S1061"9Replace this use of System.out or System.err by a logger.(½”Ø¾ùÿÿÿÿ8—ÅÔ«1
+Z	java:S1068"9Replace this use of System.out or System.err by a logger.(ãÍÙëüÿÿÿÿ8—ÅÔ«1
+Z	java:S106;"9Replace this use of System.out or System.err by a logger.(ÊÑìŸÿÿÿÿÿ8—ÅÔ«1
+_
+java:S1854D"CRemove this useless assignment to local variable "pesananOptional".(ú¼·_8—ÅÔ«1
+e
+java:S1854H"CRemove this useless assignment to local variable "pesananOptional".(ÔÙı¸úÿÿÿÿ8—ÅÔ«1
+Z	java:S106A"9Replace this use of System.out or System.err by a logger.(™¯¥ÿÿÿÿÿ8Ÿ—ÅÔ«1
+Z	java:S106C"9Replace this use of System.out or System.err by a logger.(²èõ±ûÿÿÿÿ8Ÿ—ÅÔ«1
+P
+java:S1481D"4Remove this unused "pesananOptional" local variable.(ú¼·_8Ÿ—ÅÔ«1
+Z	java:S106Y"9Replace this use of System.out or System.err by a logger.(‰Î÷˜üÿÿÿÿ8¡—ÅÔ«1
+Z	java:S106Z"9Replace this use of System.out or System.err by a logger.(ÎÉåÅşÿÿÿÿ8¡—ÅÔ«1
+Z	java:S106]"9Replace this use of System.out or System.err by a logger.(—•óµüÿÿÿÿ8¡—ÅÔ«1
+T	java:S106^"9Replace this use of System.out or System.err by a logger.(Êó‘8¡—ÅÔ«1
+U	java:S106_"9Replace this use of System.out or System.err by a logger.(…¶Áç8¡—ÅÔ«1
+]
+java:S1612b"@Replace this lambda with method reference 'System.out::println'.(Í©àŸ8ØóÕ«1
+U	java:S106b"9Replace this use of System.out or System.err by a logger.(Í©àŸ8¢—ÅÔ«1
+Z	java:S106d"9Replace this use of System.out or System.err by a logger.(ç‘ë®üÿÿÿÿ8¢—ÅÔ«1
+U	java:S106f"9Replace this use of System.out or System.err by a logger.(Øçş£8¢—ÅÔ«1
+U	java:S106g"9Replace this use of System.out or System.err by a logger.(ŸòÄ¿8¢—ÅÔ«1
+U	java:S106h"9Replace this use of System.out or System.err by a logger.(’…ëÒ8¢—ÅÔ«1
+Z	java:S106i"9Replace this use of System.out or System.err by a logger.(Ø²»Èúÿÿÿÿ8£—ÅÔ«1
+U	java:S106j"9Replace this use of System.out or System.err by a logger.(ñ¾×î8£—ÅÔ«1
+T	java:S106r"9Replace this use of System.out or System.err by a logger.(°•Ş8£—ÅÔ«1

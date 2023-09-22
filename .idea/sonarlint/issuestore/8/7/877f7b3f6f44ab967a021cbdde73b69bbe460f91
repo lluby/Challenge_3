@@ -1,0 +1,6 @@
+
+n
+java:S2095!"LUse try-with-resources or close this "BufferedWriter" in a "finally" clause.(ĞåËÓÿÿÿÿÿ8ÏƒÒÔ«1
+H
+java:S1075"&Remove this hard-coded path-delimiter.(ğÒ˜Âûÿÿÿÿ8ÖƒÒÔ«1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(‹ººúÿÿÿÿ8ãƒÒÔ«1
