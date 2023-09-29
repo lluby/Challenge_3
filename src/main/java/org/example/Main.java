@@ -1,9 +1,6 @@
 package org.example;
 
-import java.util.ArrayList;
-import java.util.List;
-import java.util.Optional;
-import java.util.Scanner;
+import java.util.*;
 
 public class Main {
     private static final Scanner input = new Scanner(System.in);
@@ -25,7 +22,11 @@ public class Main {
         System.out.println("Selamat datang di BinarFud");
         System.out.println("=================================");
         System.out.println();
-        menuList.stream().forEach(menu -> System.out.println(menu));
+
+        //pemanggilan list menu menggunakan optional class
+        menuList.stream()
+                .forEach(menu -> Optional.ofNullable(menu)
+                        .ifPresent(System.out::println));
 
         System.out.println("99. Pesan dan Bayar");
         System.out.println("0. Keluar Aplikasi");
@@ -65,6 +66,7 @@ public class Main {
         System.out.print("Masukkan jumlah pesanan: ");
         int jumlah = input.nextInt(); // Inputan user
         System.out.print("\n\n");
+
         Optional<Pesanan> pesananOptional = Optional.empty();
         if (jumlah > 0) {
             Pesanan pesanan = new Pesanan(menu, jumlah); // Membuat object pesanan dengan parameter menu dan jumlah
@@ -93,6 +95,8 @@ public class Main {
             System.out.println("\n\n================================");
             System.out.println("Konfirmasi dan Pembayaran");
             System.out.println("================================\n");
+
+            // memanggil list pesanan dengan mengimplementasikan stream
             pesananList.stream()
                     .filter(pesanan -> pesanan.getQty() > 0)
                     .forEach(pesanan -> System.out.println(pesanan));
